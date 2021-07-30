@@ -1,9 +1,3 @@
-@font-face {
-    font-family: 'Clock';
-    src: url('../../fonts/CrystalRevived.otf');
-    background-color: aliceblue;
-}
-
 .clock {
     width: 100%;
     height: 100%;
